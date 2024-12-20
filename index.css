@@ -1,0 +1,17 @@
+.hidden {
+    display: none;
+}
+
+button {
+    padding: 5px;
+    background-color: rgb(191, 194, 40);
+    border: none;
+    border-radius: 5px;
+    font-size: 1.1em;
+    font-weight: 600;
+}
+
+button:hover {
+    cursor: pointer;
+    background-color:  rgb(245, 248, 51);
+}
